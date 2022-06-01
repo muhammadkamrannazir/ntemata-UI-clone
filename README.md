@@ -1,6 +1,6 @@
 # ntemata
 
-A new Flutter project. But Old UI of https://www.ntemata.io/
+A new Flutter project. Old clone of https://www.ntemata.io/
 
 This project is a starting point for a Flutter application.
 
