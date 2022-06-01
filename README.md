@@ -1,16 +1,10 @@
 # ntemata
 
-A new Flutter project.
-
-## Getting Started
+A new Flutter project. But Old UI of https://www.ntemata.io/
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/94740513/171348278-4f568fdf-264b-41fb-a2e3-253cc489eeac.mp4
+
